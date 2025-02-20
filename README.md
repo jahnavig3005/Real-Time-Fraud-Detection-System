@@ -58,6 +58,3 @@ This project aims to build a real-time fraud detection system using Apache Kafka
     # Command here
     ```
 
-## Author
-
-Sam Groenjes
